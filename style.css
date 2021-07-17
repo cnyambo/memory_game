@@ -20,3 +20,19 @@
   .col{
       color:purple;
   }
+  input[type=submit] {
+    display:block;
+    text-align: center;
+    margin: 0 auto;
+    display: grid ;
+    background-color:chocolate;
+    color: wheat;
+    justify-content: center;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 8rem;
+    
+      
+  }
+ 
